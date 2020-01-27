@@ -4,12 +4,13 @@
 } */
 
 form {
-  width: 600px;
+  /* width: 600px; */
   margin: auto;
+  text-align: center;
 }
 
 #corpo-Intelli {
-  min-width: 800px;
+  /* min-width: 800px; */
   margin: auto;
   background-color: rgb(255, 255, 255);
   border: 1px solid #848484;
@@ -62,7 +63,7 @@ p.title-input-meal {
 }
 
 #corpo-Intelli .range-input {
-  width: 325px;
+  width: 300px;
 }
 
 #corpo-Intelli .range-number {
